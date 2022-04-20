@@ -1,4 +1,4 @@
-# Travelling_Salesman_Problem
+# Travelling Salesman Problem
 
 - Several algorithms, including my own one, to solve multiple instances of the Travelling salesman problem. 
 - These instances include metric and non-metric graphs, as well as euclidian graphs.
